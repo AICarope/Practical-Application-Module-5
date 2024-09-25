@@ -1,1 +1,1 @@
-# Machine-Learnin-gand-Artificial-Intelligence---Projects
+# Machine-Learning and Artificial-Intelligence-Projects
