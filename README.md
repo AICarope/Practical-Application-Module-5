@@ -30,7 +30,8 @@ This project aims to apply data visualization and statistical analysis to unders
   - Carry out & Take away: 18.58%
   - Bar: 15.94%
   - Restaurant ($20-50): 11.80%
-  
+  ![image](https://github.com/user-attachments/assets/8a2733be-e20e-451c-bfd2-8cdbcc779dd0)
+
 - **Temperature conditions**:  
   - 80°F: 6,475 records
   - 55°F: 3,830 records
