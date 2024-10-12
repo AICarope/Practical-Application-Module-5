@@ -30,7 +30,10 @@ This project aims to apply data visualization and statistical analysis to unders
   - Carry out & Take away: 18.58%
   - Bar: 15.94%
   - Restaurant ($20-50): 11.80%
-  ![image](https://github.com/user-attachments/assets/8a2733be-e20e-451c-bfd2-8cdbcc779dd0)
+<img src="https://github.com/user-attachments/assets/8a2733be-e20e-451c-bfd2-8cdbcc779dd0" alt="AI Product Manager Icon" width="150" height="150" align="left">
+<br><br><br>
+
+## Core Responsibilities
 
 - **Temperature conditions**:  
   - 80°F: 6,475 records
