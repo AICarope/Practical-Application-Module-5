@@ -31,8 +31,7 @@ This project aims to apply data visualization and statistical analysis to unders
   - Bar: 15.94%
   - Restaurant ($20-50): 11.80%
     
-<img src="https://github.com/user-attachments/assets/8a2733be-e20e-451c-bfd2-8cdbcc779dd0" alt="AI Product Manager Icon" width="350" height=350" align="left">
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+![image](https://github.com/user-attachments/assets/8a2733be-e20e-451c-bfd2-8cdbcc779dd0)
 
 ## Core Responsibilities
 
