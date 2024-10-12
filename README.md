@@ -4,7 +4,6 @@
 
 This repository contains the analysis of an in-vehicle coupon recommendation system. The dataset was collected from the UCI Machine Learning Repository and a survey conducted via Amazon's Mechanical Turk. The primary goal is to analyze customer behavior regarding coupon acceptance or rejection while driving through a town. The available coupons could be used at restaurants, coffee shops, bars, or carry-out locations, with a value of less than $20 or between $20 and $50, expiring either within 2 hours or in 1 day after receipt.
 
-Main
 ## Python Notebook
 You can access the Jupyter notebook [here](https://github.com/AICarope/Practical-Application-Module-5/blob/main/prompt.ipynb).
 
